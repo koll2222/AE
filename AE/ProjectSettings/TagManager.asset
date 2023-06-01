@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SpawnPoint
+  - Rooms
+  - Item
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Platform
+  - Water
+  - UI
+  - Player
+  - Monster
+  - AISensor
+  - Ground
+  - Throwing
+  - Sensor
+  - Wall
+  - MiniMapIcon
+  - Boss
+  - Wolf
+  - Item
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Monster_Struct
+    uniqueID: 1109676699
+    locked: 0
+  - name: Pet
+    uniqueID: 2983037305
+    locked: 0
+  - name: Monster
+    uniqueID: 36837441
+    locked: 0
+  - name: Boss
+    uniqueID: 1983538801
+    locked: 0
+  - name: Player
+    uniqueID: 2265589535
+    locked: 0
+  - name: ThrowObj
+    uniqueID: 3276804527
+    locked: 0
+  - name: Item
+    uniqueID: 820237155
+    locked: 0
